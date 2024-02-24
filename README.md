@@ -14,7 +14,12 @@
 I`m backend developer in Ruby language. I work with Ruby on Rails. Frontend: Vue.js
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+---
+
+### Contacts :
+:envelope: martinrlab@gmail.com
+:iphone: Telegram: <a href="https://t.me/marat_ruby">@marat_ruby</a>
+
 
 ---
 
